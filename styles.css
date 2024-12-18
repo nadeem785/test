@@ -2,5 +2,19 @@ body{
     background-color: antiquewhite;
 }
 h1{
-    background-color: rgb(42, 110, 165);
+    background-color: rgb(134, 165, 42);
+}
+.center{
+    height: 500px;
+    width: 600px;
+    text-align: center;
+    background-color: rgb(250, 215, 236);
+    color: red;
+    display: flex;
+    align-items: center;
+    align-content:center;
+    justify-content: center;
+}
+h1{
+    background-color: cadetblue;
 }
